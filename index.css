@@ -1,0 +1,11 @@
+body{
+    background-image: url("w11956-small.jpg");
+    background-size: cover;
+}
+.btn{
+    background-color: antiquewhite;
+    display: unset;
+}
+.dropdown-menu{
+    width: 30rem;
+}

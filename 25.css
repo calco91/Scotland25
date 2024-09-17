@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://images.lonelyplanetitalia.it/uploads/shutterstockrf-193097696?q=80&p=slider&s=0bc605fd87e9a3863d007abe0494a9c0");
+    background-size: cover;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+h1{
+    text-align: center;
+    border-bottom: solid;
+}
+.container{
+
+}
+p{
+    padding-top: 1.5em;
+}
+ul{
+    background-color: antiquewhite;
+    opacity: 0.7;
+}
+li{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
