@@ -7,11 +7,12 @@ img{
     height: 100px;
 }
 h1{
+    color: white;
     text-align: center;
     border-bottom: solid;
 }
 .container{
-
+padding-top: 25em;
 }
 p{
     padding-top: 1.5em;
